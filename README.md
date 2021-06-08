@@ -2,7 +2,7 @@
 <center>
 <h1 align="center">Hi 👋, I'm Fehmi</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-</center>
+
 <p align="left"> <a href="https://twitter.com/kayzokuonii" target="blank"><img src="https://img.shields.io/twitter/follow/kayzokuonii?logo=twitter&style=for-the-badge" alt="kayzokuonii" /></a> </p>
 
 - 🔭 I’m currently working on [hmrs_workspace](https://github.com/FehmiCitiloglu/hmrs-workspace)
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fehmicitiloglu&show_icons=true&theme=dracula&bg_color=623232&locale=en" alt="fehmicitiloglu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fehmicitiloglu&" alt="fehmicitiloglu" /></p>
+</center>
