@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <center>
 <h1 align="center">Hi 👋, I'm Fehmi</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
