@@ -4,7 +4,6 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 </center>
 
-<p align="left"> <a href="https://twitter.com/kayzokuonii" target="blank"><img src="https://img.shields.io/twitter/follow/kayzokuonii?logo=twitter&style=for-the-badge" alt="kayzokuonii" /></a> </p>
 <br>
 - 🔭 I’m currently working on [hmrs_workspace](https://github.com/FehmiCitiloglu/hmrs-workspace)
 
