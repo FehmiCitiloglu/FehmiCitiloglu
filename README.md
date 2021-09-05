@@ -5,8 +5,6 @@
 </center>
 
 <br>
-- 🔭 I’m currently working on [hmrs_workspace](https://github.com/FehmiCitiloglu/hmrs_workspace)
-
 - 🌱 I’m currently learning **Java Spring boot and React**
 
 <h3 align="left">Connect with me:</h3>
