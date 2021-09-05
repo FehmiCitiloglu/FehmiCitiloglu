@@ -5,7 +5,7 @@
 </center>
 
 <br>
-- 🌱 I’m currently learning **Java Spring boot and React**
+- 🌱 I’m currently learning ** React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
