@@ -10,4 +10,4 @@ const nextConfig = {
     },
 }
 
-exports = nextConfig
+export default nextConfig
