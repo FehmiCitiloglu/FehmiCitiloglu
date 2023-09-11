@@ -8,5 +8,4 @@ const nextConfig = {
       path: "http://www.fehmicitiloglu.tech/",
     },
 }
-
-module.exports = nextConfig
+export default nextConfig
