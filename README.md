@@ -5,9 +5,9 @@
 </center>
 
 
-<center>
-  [![committers.top badge](https://user-badge.committers.top/turkey_private/FehmiCitiloglu.svg)](https://user-badge.committers.top/turkey_private/FehmiCitiloglu)
-</center>
+
+[![committers.top badge](https://user-badge.committers.top/turkey_private/FehmiCitiloglu.svg)](https://user-badge.committers.top/turkey_private/FehmiCitiloglu)
+
 
 <br>
 - 🌱 I’m currently learning <strong>React</strong>
