@@ -4,9 +4,9 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 </center>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FehmiCitiloglu&label=Profile%20views&color=0e75b6&style=flat" alt="FehmiCitiloglu" /> </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/turkey_private/FehmiCitiloglu.svg)](https://user-badge.committers.top/turkey_private/FehmiCitiloglu)
 
 
 <br>
@@ -27,4 +27,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FehmiCitiloglu&label=Profile%20views&color=0e75b6&style=flat" alt="FehmiCitiloglu" /> </p>
+
+
+
+[![committers.top badge](https://user-badge.committers.top/turkey_private/FehmiCitiloglu.svg)](https://user-badge.committers.top/turkey_private/FehmiCitiloglu)
