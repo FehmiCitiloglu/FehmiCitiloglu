@@ -24,7 +24,7 @@
 </div>
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline-flex"> 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
