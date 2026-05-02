@@ -1,0 +1,24 @@
+{
+  "name": "fehmicitiloglu",
+  "version": "1.0.0",
+  "description": "<center> <h1 align=\"center\">Hi 👋, I'm Fehmi</h1> <h3 align=\"center\">A passionate developer from Turkey</h3> </center>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FehmiCitiloglu/FehmiCitiloglu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FehmiCitiloglu/FehmiCitiloglu/issues"
+  },
+  "homepage": "https://github.com/FehmiCitiloglu/FehmiCitiloglu#readme",
+  "dependencies": {
+    "github-markdown-css": "^5.9.0"
+  }
+}
